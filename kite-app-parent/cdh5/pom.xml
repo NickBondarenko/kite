@@ -72,7 +72,7 @@
     <kite.avro.version>1.7.5-cdh5.1.0</kite.avro.version>
     <kite.crunch.version>0.10.0-cdh5.1.0</kite.crunch.version>
     <kite.findbugs.version>2.0.1</kite.findbugs.version>
-    <kite.hive.version>0.12.0-cdh5.1.0</kite.hive.version>
+    <kite.hive.version>3.1.3000.7.2.2.0-244</kite.hive.version>
     <kite.oozie.version>4.0.0-cdh5.1.0</kite.oozie.version>
     <kite.spark.version>1.0.0-cdh5.1.0</kite.spark.version>
     <kite.parquet.version>1.2.5-cdh5.1.0</kite.parquet.version>
